@@ -3,8 +3,8 @@
 
 ### Recursos:
 
-[Link a guia de MarkDown](https://www.markdownguide.org/cheat-sheet/)
-[Instal·lació de IDEs de JAVA](instalaIDEs.md)
+- [Link a guia de MarkDown](https://www.markdownguide.org/cheat-sheet/)
+- [Instal·lació de IDEs de JAVA](instalaIDEs.md)
 
 ### Activitat 1
 
