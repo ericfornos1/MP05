@@ -97,3 +97,8 @@ En el calendari queden descrites les tasques que s’hauran d’executar, indica
 
 - **Gestionar els canvis.** Adaptant el pla de proves.
 - **Gestionar els riscos.** Situacions que puguin impedir o retardar el pla de proves.
+
+![image](https://user-images.githubusercontent.com/110727546/203433868-f133fb6b-ceb3-4b6e-ba6e-4ea6229fbdb4.png)
+
+
+
