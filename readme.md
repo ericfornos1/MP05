@@ -16,3 +16,11 @@
 
 ## UF2 - Desenvolupament de programari.
 
+### Teoria:
+
+-[Teoria, part 1](UF2teoria1.md)
+
+### Activitats:
+
+- Proves unitaries amb [JUnit](https://junit.org/junit5/).
+
