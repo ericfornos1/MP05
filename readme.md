@@ -13,3 +13,6 @@
 ### Activitat 2
 
 [Enunciat](https://github.com/XaSaFa/MP05UF1/blob/main/UF1Activitat2.md).
+
+## UF2 - Desenvolupament de programari.
+
