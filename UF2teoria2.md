@@ -14,14 +14,14 @@ Un cas de prova defineix com es portaran a terme les proves, especificant, entre
 
 Serveixen per a **identificar els errors** que hi ha al programari.
 
-Segueixen un cicle de vida clàssic:
+**Segueixen un cicle de vida clàssic:**
 - Definició dels casos de prova.
 - Creació dels casos de prova.
 - Selecció dels valors per als tests.
 - Execució dels casos de prova.
 - Comparació dels resultats obtinguts amb els resultats esperats.
 
-Els casos de prova hauríen d'implementar:
+**Els casos de prova hauríen d'implementar:**
 - Identificador del cas de prova.
 - Mòdul o funció a provar.
 - Descripció del cas de prova detallat.
