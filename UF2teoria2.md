@@ -41,5 +41,37 @@ Les proves de caixa blanca serveixen per a provar el màxim % del codi que es vo
 
 ![image](https://user-images.githubusercontent.com/110727546/204605793-0e0efc35-9e15-446e-88db-338587a12242.png)
 
-Per a fer una prova de caixa blanca necessitem conèixer el codi que estem testejant.
+Per a fer una prova de caixa blanca **necessitem conèixer el codi** que estem testejant.
+
+Permetran **recórrer tots els possibles camins del codi** i veure què succeeix en cada cas possible. 
+
+Es provarà què ocorre amb les **condicions i els bucles** que s’executen. 
+
+Les proves es duran a terme amb **dades que garanteixin que han tingut lloc totes les combinacions** possibles.
+
+### Complexitat ciclomàtica:
+
+Per saber quantes proves hem de fer a un codi utilitzem un número anomenat complexitat ciclomàtica.
+
+Aquest nom el va el posar el matemàtic Thomas J. McCabe al nombre de camins independents d'un diagrama de flux i va proposar la fórmula següent per calcular-lo.
+
+```
+Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2
+```
+
+#### Activitat:
+
+A l'exemple següent quina serà la CC?
+
+![image](https://user-images.githubusercontent.com/110727546/204612433-f3fb7e69-8db8-4645-8c6c-672d29e274c9.png)
+
+
+
+
+Si fem servir diagrama de fulx podem utilitzar la fórmula:
+
+```
+Complexitat ciclomàtica = nombre de condicionals + 1
+```
+
 
