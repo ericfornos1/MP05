@@ -58,6 +58,9 @@ Aquest nom el va el posar el matemàtic Thomas J. McCabe al nombre de camins ind
 ```
 Complexitat ciclomàtica = nombre de branques – nombre de nodes + 2
 ```
+Tenint en compte com crear les branques i els nodes de la representació del nostre programa:
+
+![image](https://user-images.githubusercontent.com/110727546/204613744-508c210c-7181-4540-9c0e-535f7191b818.png)
 
 #### Activitat:
 
@@ -65,13 +68,25 @@ A l'exemple següent quina serà la CC?
 
 ![image](https://user-images.githubusercontent.com/110727546/204612433-f3fb7e69-8db8-4645-8c6c-672d29e274c9.png)
 
-
-
-
-Si fem servir diagrama de fulx podem utilitzar la fórmula:
+També podem utilitzar la fórmula:
 
 ```
-Complexitat ciclomàtica = nombre de condicionals + 1
+Complexitat ciclomàtica = nombre de sentencies condicionals + 1
 ```
+
+#### Activitat:
+
+Tenint en compte els diagrames de flux vistos a classe, quina serà la CC d'aquest programa?
+
+![image](https://user-images.githubusercontent.com/110727546/204614214-5a73d89b-66e4-4f1b-8e4a-bbfd6e1885b6.png)
+
+El diagrama anterior correspon al pseudocodi següent:
+
+![image](https://user-images.githubusercontent.com/110727546/204614333-30ccb3e7-00f7-45fe-b0aa-332847c1fcd5.png)
+
+Segons la Complexitat Ciclomàtica del nostre codi ens trobarem davant d'un codi definit a la següent taula:
+
+![image](https://user-images.githubusercontent.com/110727546/204614806-25949541-7ea2-498c-89b0-65336bf32dee.png)
+
 
 
