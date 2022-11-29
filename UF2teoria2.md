@@ -62,7 +62,7 @@ Tenint en compte com crear les branques i els nodes de la representació del nos
 
 ![image](https://user-images.githubusercontent.com/110727546/204613744-508c210c-7181-4540-9c0e-535f7191b818.png)
 
-#### Activitat:
+#### Activitat 1:
 
 A l'exemple següent quina serà la CC?
 
@@ -74,7 +74,7 @@ També podem utilitzar la fórmula:
 Complexitat ciclomàtica = nombre de sentencies condicionals + 1
 ```
 
-#### Activitat:
+#### Activitat 2:
 
 Tenint en compte els diagrames de flux vistos a classe, quina serà la CC d'aquest programa?
 
@@ -90,3 +90,7 @@ Segons la Complexitat Ciclomàtica del nostre codi ens trobarem davant d'un codi
 
 
 
+#### Resolució de les activitats:
+
+- Activitat 1: CC = 8 - 7 + 2 = 3
+- Activitat 2: CC = 1 + 1 = 2
