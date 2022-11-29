@@ -88,9 +88,37 @@ Segons la Complexitat Ciclomàtica del nostre codi ens trobarem davant d'un codi
 
 ![image](https://user-images.githubusercontent.com/110727546/204614806-25949541-7ea2-498c-89b0-65336bf32dee.png)
 
-
-
 #### Resolució de les activitats:
 
 - Activitat 1: CC = 8 - 7 + 2 = 3
 - Activitat 2: CC = 1 + 1 = 2
+
+### Un cop tenim la Complexitat Ciclomàtica què fem?
+
+La CC ens serveix per determinar **quants casos de prova** necessitem per testejar tot el codi.
+
+En quant tenim la complexitat ciclomàtica:
+
+- Definim el número de camins independents que ha de seguir cada test (seran tants com la CC).
+- Determinar els casos de prova que ens permeten executar els camins anteriors i codificar-los.
+- Executar cada cas de prova i comprovar que la sortida és l'esperada.
+
+#### Exemple:
+
+Utilitzant el codi anterior:
+
+![image](https://user-images.githubusercontent.com/110727546/204614333-30ccb3e7-00f7-45fe-b0aa-332847c1fcd5.png)
+
+Tenim una complexitat ciclomàtica de valor 2, això vol dir que necessitem crear dues proves per testejar el codi.
+
+1. Un cas que faci que B > C es compleixi. B = 1 i C = 0
+2. Un cas que faci que B > C NO es compleixi. B = 1 i C = 1
+
+Per al primer cas tenim que la sortida serà 1 , 1, 0.
+
+Per al segon cas tenim que la sortida serà 1, 1, 1.
+
+Amb aquests dos únics casos haurem provat tots els camins possibles dins el nostre codi.
+
+
+
