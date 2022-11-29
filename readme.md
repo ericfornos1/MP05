@@ -22,7 +22,7 @@
 
 ### Teoria:
 
-- [Teoria I](UF2teoria1.md)
+- [Introducció](UF2teoria1.md)
 - [Tipus de proves](UF2teoria2.md)
 - 
 
