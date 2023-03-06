@@ -1,3 +1,21 @@
+Activitat Diagrama:
+---
+Utilitzarem Lucid per crear els diagrames de classes següents:
+
+
+persona.
+
+llibre.
+
+vehicle.
+
+ordinador.
+
+Penseu els seus atributs i operacions així com la visibilitat dels mateixos.
+
+![1](https://user-images.githubusercontent.com/113585897/223164017-eaf00726-b1ef-45dd-8860-f22524339e0a.PNG)
+
+
 Activitats de Recerca:
 ---
 
