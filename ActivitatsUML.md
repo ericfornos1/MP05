@@ -59,6 +59,7 @@ Escrivim quines associacions poden tenir les següents classes, nom d'associaci�
 
 
 **Cardinalitat:**
+---
 
 persona, DNI: Relació exactament un a exactament un (1:1)
 
@@ -100,6 +101,8 @@ taxi, client: Transporta
 
 
 **Activitat Composició**
+---
+
 Utilitzarem Lucid per crear 5 relacions de composició:
 
 
