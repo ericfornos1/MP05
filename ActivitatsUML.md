@@ -42,33 +42,33 @@ Ivar Jacobson
 Jim Rumbaugh
 
 
-Què és Rational Rose?
+**Què és Rational Rose?**
 
 Una eina de disseny orientada a objectes que dona suport de modelatge visual. Permet representar un sistema gràficament. Funcionava sobre frameworks de desenvolupament com MVS.
 
 
-Què té que veure Rational Rose amb UML?
+**Què té que veure Rational Rose amb UML?**
 
 Rational Rose utilitza UML per a modelar software.
 
 
-Quan va ser publicada UML per la International Organization for Standardization (ISO)?
+**Quan va ser publicada UML per la International Organization for Standardization (ISO)?**
 
 
 La versió 1.4.2 va ser publicada per la ISO l'any 2005.
 
-Què vol dir OMG?
+**Què vol dir OMG?**
 
 Object Management Group - estandaritzar el Object Modelling en totes les seves formes.
 
 
-Què té que veure OMG amb UML?
+**Què té que veure OMG amb UML?**
 
 OMG és responsable de mantindre UML des de que es va convertir en un estàndar.
 
 
 
-Composició:
+**Composició:**
 
 **Activitat cardinalitat i Associació**
 ---
