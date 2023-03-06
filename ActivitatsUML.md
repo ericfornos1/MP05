@@ -3,24 +3,20 @@ Composició:
 Activitat
 Utilitzarem Lucid per crear 5 relacions de composició:
 
-1.
-![cinc](https://user-images.githubusercontent.com/113585897/223112172-e2373413-4ab4-4bc1-a5c6-e029cb4e7183.png)
 
+1.
+![Captura de pantalla de 2023-03-06 13-50-20](https://user-images.githubusercontent.com/113585897/223116777-5425f411-4962-424c-901c-0effd28cd623.png)
 
 2.
-![primer](https://user-images.githubusercontent.com/113585897/223112175-a7fb98df-d043-4b0e-b0ec-93eb914a1da4.png)
-
+![Captura de pantalla de 2023-03-06 13-52-18](https://user-images.githubusercontent.com/113585897/223116780-5cceb45e-9cc0-453e-91b3-34757794e02e.png)
 
 
 3.
-![tercer](https://user-images.githubusercontent.com/113585897/223112187-75c58139-ff1d-4572-ab20-a4530e39d736.png)
-
-
+![Captura de pantalla de 2023-03-06 13-53-55](https://user-images.githubusercontent.com/113585897/223116782-985f4a50-1176-4bc7-80d1-e12fc4eb45dd.png)
 
 4.
-![segon](https://user-images.githubusercontent.com/113585897/223112184-00bfceff-10e7-4e3c-93bc-edc9cfaf7553.png)
-
+![Captura de pantalla de 2023-03-06 13-55-42](https://user-images.githubusercontent.com/113585897/223116783-99622d87-5730-4a8b-8e4a-5e10724493f5.png)
 
 
 5.
-![quart](https://user-images.githubusercontent.com/113585897/223112179-f9612b02-7972-4528-ba68-91dd31308850.png)
+![Captura de pantalla de 2023-03-06 13-57-05](https://user-images.githubusercontent.com/113585897/223116785-44e82e99-cc0c-449a-bbba-2b866467a584.png)
