@@ -1,5 +1,35 @@
 Composició:
 
+
+
+
+Activitat
+Escrivim quines associacions poden tenir les següents classes, nom d'associació i cardinalitat:
+
+Cardinalitat:
+
+persona, DNI: Relació exactament un a exactament un (1:1)
+persona, comics: Relació exactament un a diversos (1:*)
+persona, tren: Relació un o més a un o més (1..:1..)
+animal, persona: Relació exactament un a diversos (1:*)
+persona, persona: Relació un o més a un o més (1..:1..)
+persona, cotxe: Relació un o més a un o més (1..:1..)
+persona, adreça: Relació opcional un a exactament un (0..1:1)
+taxi, client: Relació exactament un a diversos (1:*)
+
+Nom d'associació:
+
+persona, DNI: Identificació
+persona, comics: Col·lecciona
+persona, tren: Viatja
+animal, persona: Mascota
+persona, persona: Coneix
+persona, cotxe: Condueix
+persona, adreça: Viu
+taxi, client: Transporta
+
+
+
 Activitat
 Utilitzarem Lucid per crear 5 relacions de composició:
 
@@ -20,3 +50,5 @@ Utilitzarem Lucid per crear 5 relacions de composició:
 
 5.
 ![Captura de pantalla de 2023-03-06 13-57-05](https://user-images.githubusercontent.com/113585897/223116785-44e82e99-cc0c-449a-bbba-2b866467a584.png)
+
+
