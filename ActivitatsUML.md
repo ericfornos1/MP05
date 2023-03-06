@@ -4,13 +4,12 @@ Composició:
 
 
 
-Activitat
-
+**Activitat cardinalitat i Associació**
 
 Escrivim quines associacions poden tenir les següents classes, nom d'associació i cardinalitat:
 
 
-Cardinalitat:
+**Cardinalitat:**
 
 persona, DNI: Relació exactament un a exactament un (1:1)
 
@@ -30,7 +29,7 @@ taxi, client: Relació exactament un a diversos (1:*)
 
 
 
-Nom d'associació:
+**Nom d'associació:**
 
 persona, DNI: Identificació
 
@@ -51,7 +50,7 @@ taxi, client: Transporta
 
 
 
-Activitat
+**Activitat Composició**
 Utilitzarem Lucid per crear 5 relacions de composició:
 
 
