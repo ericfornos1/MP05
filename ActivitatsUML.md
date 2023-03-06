@@ -38,8 +38,11 @@ versió 2.5.1 - 2017
 **Qui va crear UML?**
 
 Grady Booch
+
 Ivar Jacobson
+
 Jim Rumbaugh
+
 
 
 **Què és Rational Rose?**
