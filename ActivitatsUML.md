@@ -35,7 +35,7 @@ versió 2.2 - 2009
 
 versió 2.5.1 - 2017
 
-Qui va crear UML?
+**Qui va crear UML?**
 
 Grady Booch
 Ivar Jacobson
