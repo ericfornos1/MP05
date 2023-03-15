@@ -155,6 +155,8 @@ Un objecte anomenat base que podrà incloure l'altre tipus d'objectes, com si fo
 
 L'objecte base necessita de l'objecte inclòs per existir, però l'objecte inclòs, si desapareix l'objecte base segueix existint.
 
-Exemple:
+4 exemples de agregacions, (si l'objecte base desapareix, segueix existing)
 
-Objecte base fruiteria i objectes inclosos diferents tipus de fruita.
+![Captura de pantalla de 2023-03-15 08-56-02](https://user-images.githubusercontent.com/113585897/225243655-2d6e5625-5d49-46ce-a400-49edefd70db6.png)
+
+
