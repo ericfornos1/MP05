@@ -159,4 +159,11 @@ L'objecte base necessita de l'objecte inclòs per existir, però l'objecte incl�
 
 ![Captura de pantalla de 2023-03-15 08-56-02](https://user-images.githubusercontent.com/113585897/225243655-2d6e5625-5d49-46ce-a400-49edefd70db6.png)
 
+**Classe associativa**
+---
 
+Hi ha vegades que una associació entre classes té propietats o mètodes propis, llavors aquesta es representa amb una línia discontinua unida a la línia d'associació.
+
+La línia i la classe nova representen el mateix element conceptual de l'associació.
+
+A l'exemple següent tenim una associació entre la classe estudiant i la classe assignatura, l'associació es diu està cursant i té la propietat pròpia nota.
