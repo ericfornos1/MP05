@@ -2,8 +2,8 @@ Part de "Associacions" del projecte de Banc d'aliments, (Èric Fornós)
 ---
 
 El següent codi controla l'apartat de crear associacions, mostrar-les, eliminar-les, modificar-les, etc.
-`
-package ProjecteMP05;
+
+`package ProjecteMP05;
 
 
 import java.util.ArrayList;
@@ -206,6 +206,6 @@ return -1;
 
 }
 
-}
+}``
 
-``
+
