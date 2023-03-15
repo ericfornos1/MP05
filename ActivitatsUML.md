@@ -167,3 +167,10 @@ Hi ha vegades que una associació entre classes té propietats o mètodes propis
 La línia i la classe nova representen el mateix element conceptual de l'associació.
 
 A l'exemple següent tenim una associació entre la classe estudiant i la classe assignatura, l'associació es diu està cursant i té la propietat pròpia nota.
+
+
+
+*Interfície (interface)**
+---
+
+La interfície és una classe abstracta que conté la declaració (i només la declaració) de les propietats i operacions que s'hauran d'implementar per una classe.
