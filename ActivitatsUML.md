@@ -145,4 +145,16 @@ Utilitzarem Lucid per crear 5 relacions de composició:
 5.
 ![Captura de pantalla de 2023-03-06 13-57-05](https://user-images.githubusercontent.com/113585897/223116785-44e82e99-cc0c-449a-bbba-2b866467a584.png)
 
+**Agregació**
+---
 
+
+Es tracta d'un cas especial d'associació entre dos o més objectes.
+
+Un objecte anomenat base que podrà incloure l'altre tipus d'objectes, com si fos un contingut.
+
+L'objecte base necessita de l'objecte inclòs per existir, però l'objecte inclòs, si desapareix l'objecte base segueix existint.
+
+Exemple:
+
+Objecte base fruiteria i objectes inclosos diferents tipus de fruita.
