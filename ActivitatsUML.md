@@ -51,7 +51,6 @@ Una eina de disseny orientada a objectes que dona suport de modelatge visual. Pe
 
 
 **Què té que veure Rational Rose amb UML?**
----
 
 
 Rational Rose utilitza UML per a modelar software.
