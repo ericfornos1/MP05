@@ -180,3 +180,6 @@ A l'exemple següent tenim una associació entre la classe estudiant i la classe
 ---
 
 La interfície és una classe abstracta que conté la declaració (i només la declaració) de les propietats i operacions que s'hauran d'implementar per una classe.
+
+
+![Captura de pantalla de 2023-03-15 10-23-07](https://user-images.githubusercontent.com/113585897/225265320-3ff24a69-5c3c-4485-964d-ce20ec767744.png)
