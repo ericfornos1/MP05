@@ -168,6 +168,12 @@ La línia i la classe nova representen el mateix element conceptual de l'associa
 
 A l'exemple següent tenim una associació entre la classe estudiant i la classe assignatura, l'associació es diu està cursant i té la propietat pròpia nota.
 
+![Captura de pantalla de 2023-03-15 09-47-28](https://user-images.githubusercontent.com/113585897/225256078-1b5bf621-973d-4997-848d-65de88abd321.png)
+
+![Captura de pantalla de 2023-03-15 09-48-30](https://user-images.githubusercontent.com/113585897/225256083-6498049f-f7a2-486e-8028-71a639b050a4.png)
+
+![Captura de pantalla de 2023-03-15 09-49-18](https://user-images.githubusercontent.com/113585897/225256086-caee8357-1f7b-4eb5-912a-61d8c173161c.png)
+
 
 
 *Interfície (interface)**
