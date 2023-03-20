@@ -82,4 +82,50 @@ public class TransportsJeanClaude {
 }
 ```
 
+## Taula de casos vàlids i no vàlids.
+
+| Càrrega | Furgoneta | Resultat |
+|---------|-----------|----------|
+| 499     | 500       | -1       |
+| 500     | 500       | 0        |
+| 750     | 750       | 0        |
+| 900     | 750       | -1       |
+| 901     | 750       | -1       |
+
+# ControlTemperatura
+
+## Codi programa.
+
+```
+import java.util.Scanner;
+
+public class ControlTemperatura {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        // Entrada de temperatura del medidor
+        System.out.print("Introdueix la temperatura del medidor (entre -10 i 50 graus): ");
+        double medidor = sc.nextDouble();
+
+        // Entrada de temperatura del termostat
+        System.out.print("Introdueix la temperatura del termostat (entre 15 i 40 graus): ");
+        double termostat = sc.nextDouble();
+
+        // Càlcul de la potència del sistema de calefacció
+        int potencia;
+        if (medidor > termostat) {
+            potencia = 0;
+        } else if (medidor >= termostat - 2) {
+            potencia = 1;
+        } else {
+            potencia = 2;
+        }
+
+        // Sortida de la potència del sistema de calefacció
+        System.out.println("La potència del sistema de calefacció és: " + potencia);
+
+        sc.close();
+    }
+}
+``
 
