@@ -129,3 +129,15 @@ public class ControlTemperatura {
 }
 ``
 
+## Taula de casos vàlids i no vàlids.
+
+| Medidor | Termostat | Resultat |
+|---------|-----------|----------|
+| <-10ºC  | -         | -        |
+| -10ºC   | 15ºC-40ºC | 0        |
+|15ºC-40ºC| 15ºC-40ºC | 1        |
+| <15ºC   | 15ºC-40ºC | 1        |
+
+
+
+
