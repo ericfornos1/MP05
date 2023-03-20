@@ -138,6 +138,34 @@ public class ControlTemperatura {
 |15ºC-40ºC| 15ºC-40ºC | 1        |
 | <15ºC   | 15ºC-40ºC | 1        |
 
+# Factorial.
+
+### Codi programa:
+
+```
+package exercici1;
+
+public class Factorial {
+    public static int factorial(int num) {
+        int result = 1;
+        for (int i = num; i >= 1; i--) {
+            result *= i;
+        }
+        return result;
+    }
+
+    public static void main(String[] args) {
+        int num = 5;
+        System.out.println("El factorial de " + num + " és " + factorial(num));
+    }
+}
+
+```
+
+![Captura de pantalla de 2023-03-20 11-46-34](https://user-images.githubusercontent.com/113585897/226317767-736733a1-2235-43b8-a445-d306db9b440f.png)
+
+
+
 
 
 
