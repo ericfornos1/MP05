@@ -127,7 +127,7 @@ public class ControlTemperatura {
         sc.close();
     }
 }
-``
+```
 
 ## Taula de casos vàlids i no vàlids.
 
