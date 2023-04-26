@@ -18,8 +18,7 @@ Per exportar el codi del projecte a JAVA i a Python, haurem d'accedir al menú "
 
 ![7a](https://user-images.githubusercontent.com/113585897/234499308-b132f94a-b710-415c-9ad9-0886bd6fc26f.png)
 
-Finalment, si volem utilitzar directament el codi generat a JAVA, haurem de compilar-lo primer. Per fer-ho, haurem d'utilitzar una eina de desenvolupament com, per exemple, Eclipse o NetBeans.
-
+Finalment, si volem utilitzar directament el codi generat a JAVA, haurem de compilar-lo primer. Per fer-ho, haurem d'utilitzar una eina de desenvolupament, en el nostre cas IntelIJ
 ![3a](https://user-images.githubusercontent.com/113585897/234499298-02911f3a-606e-45d6-bf81-87269df45167.png)
 
 ![4a](https://user-images.githubusercontent.com/113585897/234499302-a0806770-4b14-42e2-9c48-65af8408edf8.png)
