@@ -34,7 +34,6 @@ He obert Umbrello i he creat un nou projecte. Després, he seleccionat la opció
 
 ![Captura de pantalla de 2023-04-26 11-37-28](https://user-images.githubusercontent.com/113585897/234539007-acacdd7a-c0b7-441f-bbfb-f455986551cf.png)
 
-![Captura de pantalla de 2023-04-26 11-48-19](https://user-images.githubusercontent.com/113585897/234539010-6d704310-64af-4bb1-a914-0ed17581f7d4.png)
 
 ![Captura de pantalla de 2023-04-26 09-41-01](https://user-images.githubusercontent.com/113585897/234538993-61b00d28-1c8a-4c68-8a96-c973da5ebdea.png)
 
@@ -42,6 +41,9 @@ He exportat el diagrama de classes a codi Python des d'Umbrello. Per fer-ho, he 
 
 ![Captura de pantalla de 2023-04-26 11-37-05](https://user-images.githubusercontent.com/113585897/234539001-c013e12f-8959-43bd-b427-cbc1bfa465d6.png)
 
+![Captura de pantalla de 2023-04-26 09-41-12](https://user-images.githubusercontent.com/113585897/234538997-5d01c697-794f-47a3-8527-0c5b162808d3.png)
+
 Seguidament, he creat el diagrama de casos d'ús que, segons el meu parer, tindria el joc. Per fer-ho, he utilitzat l'eina Lucidchart, ja que Umbrello no disposa d'aquesta funcionalitat. He afegit els actors implicats en el joc i he especificat les accions que poden dur a terme.
 
-![Captura de pantalla de 2023-04-26 09-41-12](https://user-images.githubusercontent.com/113585897/234538997-5d01c697-794f-47a3-8527-0c5b162808d3.png)
+
+![Captura de pantalla de 2023-04-26 11-48-19](https://user-images.githubusercontent.com/113585897/234539010-6d704310-64af-4bb1-a914-0ed17581f7d4.png)
